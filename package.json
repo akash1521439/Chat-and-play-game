@@ -1,21 +1,21 @@
 {
-  "name": "simple-chat-app",
+  "name": "Chat-and-play-game",
   "version": "1.0.0",
-  "description": "Simple chat app with Node, Express, Socket.io",
+  "description": "More than a chat application, where multiple users can interact and play game.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akash1521439/simple-chat-app.git"
+    "url": "git+https://github.com/akash1521439/Chat-and-play-game.git"
   },
   "author": "Akash",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akash1521439/simple-chat-app/issues"
+    "url": "https://github.com/akash1521439/Chat-and-play-game/issues"
   },
-  "homepage": "https://github.com/akash1521439/simple-chat-app#readme",
+  "homepage": "https://github.com/akash1521439/Chat-and-play-game#readme",
   "dependencies": {
     "express": "^4.16.3",
     "socket.io": "^2.1.1"
